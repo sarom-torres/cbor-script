@@ -1,0 +1,16 @@
+{
+    "opcode": 11,
+    "elementos": [
+        {
+           "nome":"/home/aluno/exemplo.py",
+           "tamanho": 2048
+        },
+        {
+           "nome":"/home/aluno/ifsc"
+        },
+        {
+           "nome":"/home/aluno/text.txt",
+           "tamanho": 1024
+        }
+    ]
+}
